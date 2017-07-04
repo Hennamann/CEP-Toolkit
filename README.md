@@ -1,5 +1,5 @@
 # CEP-Toolkit
-A repository for housing various tools useful forCEP extension development. This might include
+A repository for housing various tools useful for CEP extension development. This might include
 - JSX Scripts
 - Boilerplates
 - Plugins
@@ -8,6 +8,8 @@ A repository for housing various tools useful forCEP extension development. This
 
 ## Useful Documentation
 **Adobe CEP Guides and Resources**
+- Adobe Bridge CEP Cookbook: https://github.com/Hennamann/CEP-Toolkit/blob/master/CEP_7_Extensions_Cookbook_Bridge.pdf
+- Adobe Bridge CEP Samples Repo: https://github.com/siddharthsingh89/BridgeSamples
 - Adobe CEP-Resources: https://github.com/Adobe-CEP/CEP-Resources 
 - Adobe CEP-Samples https://github.com/Adobe-CEP/Samples
 - Getting started with HTML5 Panels for After Effects: http://victorianece.com/2015/12/getting-started-with-html5-cep-panels-for-after-effects/
